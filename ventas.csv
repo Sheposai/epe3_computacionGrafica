@@ -1,0 +1,44 @@
+id,fecha,producto,categoria,precio,cantidad,total
+1,2024-05-29,Lámpara,Hogar,15000.0,2,30000.0
+2,2024-06-07,Libro de ciencia ficción,Libros,20000.0,1,20000.0
+3,2024-05-21,Laptop,Electrónica,500000.0,10,5000000.0
+4,2024-05-28,Vestido,Ropa,30000.0,2,60000.0
+5,2024-06-06,Silla,Hogar,20000.0,5,100000.0
+6,2024-05-27,Rompecabezas,Juguetes,12000.0,6,72000.0
+7,2024-06-07,Silla,Hogar,20000.0,6,120000.0
+8,2024-06-02,Muñeca,Juguetes,8000.0,7,56000.0
+9,2024-05-28,Libro de ciencia ficción,Libros,20000.0,9,180000.0
+10,2024-06-03,Camiseta,Ropa,10000.0,7,70000.0
+11,2024-05-25,Mesa,Hogar,50000.0,3,150000.0
+12,2024-05-23,Celular,Electrónica,150000.0,9,1350000.0
+13,2024-06-04,Rompecabezas,Juguetes,12000.0,8,96000.0
+14,2024-05-28,Jeans,Ropa,25000.0,5,125000.0
+15,2024-05-24,Camiseta,Ropa,10000.0,9,90000.0
+16,2024-05-28,Rompecabezas,Juguetes,12000.0,9,108000.0
+17,2024-05-25,Mesa,Hogar,50000.0,1,50000.0
+18,2024-06-10,Libro de ciencia ficción,Libros,20000.0,8,160000.0
+19,2024-05-13,Muñeca,Juguetes,8000.0,10,80000.0
+20,2024-06-10,Muñeca,Juguetes,8000.0,6,48000.0
+21,2024-03-21,Televisor,Electrónica,200000.0,1,200000.0
+22,2024-05-22,Libro de aventuras,Libros,10000.0,8,80000.0
+23,2024-06-05,Pelota,Juguetes,6000.0,5,30000.0
+24,2024-06-09,Rompecabezas,Juguetes,12000.0,3,36000.0
+25,2024-05-25,Laptop,Electrónica,500000.0,3,1500000.0
+26,2024-06-05,Muñeca,Juguetes,8000.0,7,56000.0
+27,2024-05-27,Televisor,Electrónica,200000.0,4,800000.0
+28,2024-06-08,Lámpara,Hogar,15000.0,3,45000.0
+29,2024-05-13,Jeans,Ropa,25000.0,5,125000.0
+30,2024-06-02,Lámpara,Hogar,15000.0,4,60000.0
+31,2024-06-04,Camiseta,Ropa,10000.0,7,70000.0
+32,2024-05-18,Libro de ciencia ficción,Libros,20000.0,9,180000.0
+33,2024-06-05,Silla,Hogar,20000.0,1,20000.0
+34,2024-05-24,Libro de ciencia ficción,Libros,20000.0,6,120000.0
+35,2024-05-27,Libro de ciencia ficción,Libros,20000.0,10,200000.0
+36,2024-06-07,Celular,Electrónica,150000.0,7,1050000.0
+37,2024-05-27,Silla,Hogar,20000.0,2,40000.0
+38,2024-05-17,Silla,Hogar,20000.0,8,160000.0
+39,2024-05-25,Camiseta,Ropa,10000.0,3,30000.0
+40,2024-06-06,Celular,Electrónica,150000.0,10,1500000.0
+41,2024-05-23,Mesa,Hogar,50000.0,5,250000.0
+42,2024-03-10,Televisor,Electrónica,200000.0,2,400000.0
+43,2023-06-10,Rompecabezas,Juguetes,12000.0,1,12000.0
